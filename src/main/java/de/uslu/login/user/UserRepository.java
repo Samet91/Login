@@ -1,4 +1,4 @@
-package de.uslu.login;
+package de.uslu.login.user;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
