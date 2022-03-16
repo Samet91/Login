@@ -1,4 +1,4 @@
-package de.uslu.login;
+package de.uslu.login.greeting;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

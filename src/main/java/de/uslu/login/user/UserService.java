@@ -1,4 +1,4 @@
-package de.uslu.login;
+package de.uslu.login.user;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

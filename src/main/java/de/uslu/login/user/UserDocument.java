@@ -1,4 +1,4 @@
-package de.uslu.login;
+package de.uslu.login.user;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
